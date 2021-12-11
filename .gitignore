@@ -1,3 +1,8 @@
 .DS_Store
 build/
 *.o
+.hg/
+*.swp
+*.swo
+.hgtags*
+.hgignore
