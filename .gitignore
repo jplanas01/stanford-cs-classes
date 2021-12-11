@@ -6,3 +6,6 @@ build/
 *.swo
 .hgtags*
 .hgignore
+*.pyc
+*.un~
+*.zip

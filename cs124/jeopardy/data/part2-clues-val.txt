@@ -1,0 +1,10 @@
+Actor and musician <PERSON>Desi Arnaz</PERSON> was born in this year.
+<PERSON>Desi Arnaz</PERSON>, star of I Love Lucy, was born in this sea port city.
+This is the year <PERSON>Boris Yeltsin</PERSON> was born, six decades before he assumed the presidency.
+<PERSON>Boris Yeltsin</PERSON>, former president of <LOCATION>Russia </LOCATION> was born in this village.
+The Pulitzer and Nobel-winning <PERSON>Ernest Hemingway</PERSON> was born in this year. 
+The former first daughter <PERSON>Chelsea Clinton</PERSON> was born in this year to President <PERSON>Bill Clinton</PERSON> and <PERSON>Hillary Clinton</PERSON>.
+<PERSON>Elizabeth Garrett Anderson</PERSON> was born in this year and later became the first female mayor in <LOCATION>Britain</LOCATION>, .
+This coastal town is the birthplace of English feminist <PERSON>Elizabeth Garrett Anderson</PERSON>.
+This is the birth year of <ORGANIZATION>Microsoft</ORGANIZATION> founder <PERSON>Bill Gates</PERSON>.
+<PERSON>Patrick Schwarzenegger</PERSON> was born in this <LOCATION>California</LOCATION> hub.

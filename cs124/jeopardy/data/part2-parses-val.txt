@@ -1,0 +1,10 @@
+year_of_birth:Desi Arnaz
+born_in:Desi Arnaz
+year_of_birth:Boris Yeltsin
+born_in:Boris Yeltsin
+year_of_birth:Ernest Hemingway
+year_of_birth:Chelsea Clinton
+year_of_birth:Elizabeth Garrett Anderson
+born_in:Elizabeth Garrett Anderson
+year_of_birth:Bill Gates
+born_in:Patrick Schwarzenegger

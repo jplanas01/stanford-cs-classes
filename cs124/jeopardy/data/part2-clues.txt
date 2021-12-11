@@ -1,0 +1,30 @@
+<PERSON>Arnold Schwarzenegger</PERSON> was born in <LOCATION>Austria</LOCATION> in this year.
+This is the <LOCATION>East Coast</LOCATION> city where <PERSON>Edgar Allan Poe</PERSON> was born.
+<PERSON>Abraham Lincoln</PERSON>'s only son to survive to adulthood was born when the future president was living in what Midwestern town.
+This is the year "boomer president" <PERSON>Bill Clinton</PERSON> was born.
+This city, also called <LOCATION>Beantown</LOCATION>, was the birthplace of <PERSON>Benjamin Franklin</PERSON>.
+<PERSON>Katherine Schwarzenegger</PERSON> was born in this year.
+This is the year <PERSON>Cary Elwes</PERSON> was born.
+<ORGANIZATION>Microsoft</ORGANIZATION> founder <PERSON>Bill Gates</PERSON> was born in this <LOCATION>Pacific Northwest</LOCATION> city.
+President <PERSON>Andrew Johnson</PERSON> was born in this city.
+This is the year <PERSON>Edgar Allan Poe</PERSON> was born.
+<PERSON>Barry Bonds</PERSON> was born July 24 of this year.
+<PERSON>Ike Eisenhower</PERSON> was born in this year.
+<PERSON>Billy Crystal</PERSON> was born in this year.
+<PERSON>Abiah Folger</PERSON>, mother of <PERSON>Ben Franklin</PERSON>, was born in this town.
+Emperor <PERSON>Alexander II</PERSON> of <LOCATION>Russia</LOCATION> was born in this city.
+Actor <PERSON>Billy Crystal</PERSON> was born in this urban center.
+Movie star <PERSON>Arnold Schwarzenegger</PERSON> was born in this Austrian town.
+<PERSON>Dwight Eisenhower</PERSON> was born in this town.
+<PERSON>Poe</PERSON>'s adoptive father <PERSON>John Allan</PERSON> was born in this British town.
+Playwright <PERSON>Arthur Miller</PERSON> was born in this major <LOCATION>East Coast</LOCATION> city.
+<PERSON>Colin Powell</PERSON> was born on April 5 of this year.
+This is the year <PERSON>Lincoln VP Andrew Johnson</PERSON> was born.
+<PERSON>Willie Lincoln</PERSON> was born in this year, but unfortunately died at the age of twelve. 
+This is the <LOCATION>Chicago</LOCATION> suburb where <PERSON>Ernest Hemingway</PERSON> was born.
+This capital of <LOCATION>Ontario</LOCATION> was the birthplace of <PERSON>John Hemingway</PERSON>.
+This is the year of birth of <PERSON>John Sheldon David Doud Eisenhower</PERSON>.
+The birthday of <PERSON>Gladys Love Smith</PERSON> falls in this year.
+The "King of Rock and Roll", <PERSON>Elvis Presley</PERSON> was born in this city before moving to Tennessee.
+<PERSON>Alfonso V</PERSON> of <LOCATION>Aragon</LOCATION>, knight of the <ORGANIZATION>Order of the Dragon</ORGANIZATION>, was born in this year.
+This is the year that <PERSON>Sarah Franklin</PERSON> was born.

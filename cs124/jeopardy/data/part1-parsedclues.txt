@@ -1,0 +1,500 @@
+mayor_of:Aberdeen, South Dakota
+wife_of:Phil Hartman
+year_of_death:Rebecca Latimer Felton
+univ_in:Albany, Oregon
+year_of_birth:Andrea Martin
+univ_president_of:Fort Lewis College
+college_of:Mel Brooks
+wife_of:Ed Lee
+college_of:Paul Davis
+parent_org_of:Great Valley Center
+college_of:Jeremy Ziring
+mayor_of:New Port Richey, FL
+year_of_death:Anne Hathaway
+year_of_death:Andrea Martin
+college_of:Kelsey Grammer
+headquarters_loc:Grabhorn Institute
+born_in:Margaret Jacks
+born_in:Barbara Boxer
+headquarters_loc:Education International
+wife_of:Woody Harrelson
+year_of_birth:Barbara Boxer
+husband_of:Nancy L. Kassebaum
+wife_of:Tom Kite
+husband_of:Courtney Marie Prokopas
+year_of_death:Stephen K. Chan
+wife_of:Mandy Patinkin
+husband_of:Jason Goldberg
+univ_president_of:Morehouse College
+college_of:Andrea Martin
+year_of_birth:Courtney Marie Prokopas
+univ_in:New York City, NY
+headquarters_loc:Great Valley Center
+mayor_of:Alabaster, Alabama
+univ_in:Allegan, MI
+college_of:Eleanor Parker
+univ_in:Alma, Michigan
+year_of_birth:Eleanor Parker
+husband_of:Sara Kanwal Rezvi
+parent_org_of:American Cryonics Society
+parent_org_of:Aerospace Corporation
+college_of:Michael Furdyna
+parent_org_of:Global Education Associates
+parent_org_of:Greater Yosemite Council
+year_of_death:Lisa Kudrow
+mayor_of:Acton, MA
+mayor_of:Houston, TX
+wife_of:Phil Hartman
+wife_of:Harvey Fierstein
+year_of_death:Jeremy Ziring
+univ_president_of:San Diego Christian College
+year_of_birth:Sam Feldman
+wife_of:Jeremy Ziring
+mayor_of:Ferndale, Michigan
+headquarters_loc:Golden Empire Council
+year_of_birth:Barbara Boxer
+wife_of:Sam Feldman
+born_in:Sam Hunt
+year_of_birth:Dustin Black
+univ_president_of:Oglethorpe University
+mayor_of:New London, OH
+year_of_birth:Barbara Boxer
+parent_org_of:Growth Opportunities through Athletics, Learning & Service
+college_of:Phil Hartman
+born_in:Andrew William Jordan
+mayor_of:Amsterdam, Ohio
+headquarters_loc:AmBAR
+univ_in:New London, OH
+univ_president_of:Whittier College
+husband_of:Jane Jacobs
+wife_of:Andy Jordan
+college_of:Dan Wade
+univ_in:Zoar, Ohio
+husband_of:Anne Hathaway
+wife_of:Paul Davis
+univ_in:Akron, Ohio
+univ_in:Zephyrhills, Florida
+wife_of:Bob Hope
+headquarters_loc:Global Policy Forum
+univ_in:Acton, MA
+husband_of:Christina Ricci
+wife_of:Mel Brooks
+univ_president_of:Eastern Connecticut State University
+mayor_of:New York City, NY
+year_of_birth:Kathleen Elizabeth Scanlon
+husband_of:Margaret Chase Smith
+year_of_death:Rebecca Latimer Felton
+wife_of:MacArthur Parker
+wife_of:Jonathan Williams
+year_of_death:Kelsey Grammer
+parent_org_of:Alive & Well AIDS Alternatives
+husband_of:Kelsey Grammer
+born_in:Leila Steven Sales
+husband_of:Marge Simpson
+headquarters_loc:International Network for Girls
+college_of:Stephen K. Chan
+mayor_of:Follansbee, West Virginia
+headquarters_loc:American Cryonics Society
+born_in:Stephen K. Chan
+year_of_death:Andrew William Jordan
+mayor_of:Fort Lauderdale, Florida
+univ_in:Follansbee, West Virginia
+born_in:William C. Volk
+year_of_birth:Margaret Chase Smith
+univ_in:Newport, IN
+college_of:Johnny Unitas
+college_of:Sara Kanwal Rezvi
+univ_president_of:Ralston College
+univ_in:Fort Lauderdale, Florida
+headquarters_loc:Global Education Associates
+wife_of:Johnny Unitas
+headquarters_loc:Gender Spectrum
+born_in:Denise Nicholas
+year_of_death:Sally Stevens
+college_of:Woody Harrelson
+year_of_birth:Jane Jacobs
+husband_of:Hattie Wyat Caraway
+born_in:Marge Simpson
+headquarters_loc:Access Books
+parent_org_of:Grabhorn Institute
+husband_of:Andrea Martin
+univ_in:Altamonte Springs, FL
+born_in:Dustin Black
+univ_president_of:Western State Colorado University
+headquarters_loc:Ag Against Hunger
+year_of_death:Sonia Maria Rupcic
+year_of_death:Dustin Black
+mayor_of:Florence, Alabama
+husband_of:Lisa Kudrow
+univ_in:Alabaster, Alabama
+year_of_death:Sam Feldman
+univ_president_of:Thomas Aquinas College
+univ_in:Niceville, Florida
+year_of_death:Chris Havlin
+headquarters_loc:GiveVaccines.org
+college_of:Peggy Lipton
+husband_of:Rebecca Latimer Felton
+univ_in:Amberley, Ohio
+univ_president_of:Menlo College
+mayor_of:Abbeville, Alabama
+year_of_death:Denise Nicholas
+mayor_of:Albany, Oregon
+born_in:Barbara Boxer
+parent_org_of:Global Health Review
+parent_org_of:Access Books
+college_of:MacArthur Parker
+born_in:Jane Doe
+year_of_birth:Denise Nicholas
+husband_of:Lisa Rose Feiertag
+parent_org_of:American Cryonics Society
+born_in:Eleanor Parker
+wife_of:Steve Allen
+headquarters_loc:Baha'i International Community
+wife_of:Seth Berlin
+parent_org_of:Grand Ducal Council of San Francisco
+mayor_of:Amarillo, Texas
+mayor_of:Zionsville, Indiana
+born_in:Sara Kanwal Rezvi
+headquarters_loc:AMEN Missionary
+univ_president_of:Stanford University
+year_of_death:Jason Goldberg
+wife_of:Luke Perry
+born_in:Kelsey Grammer
+husband_of:Leila Steven Sales
+parent_org_of:AMEN Missionary
+univ_in:New London, Ohio
+mayor_of:Alma, Michigan
+univ_president_of:Emmanuel College
+husband_of:Rebecca Latimer Felton
+mayor_of:Zeeland, Michigan
+mayor_of:Zanesville, OH
+college_of:Andy Jordan
+husband_of:Barbara Boxer
+parent_org_of:Center of Concern
+wife_of:Ron Taylor
+year_of_birth:William C. Volk
+college_of:Kathleen Elizabeth Scanlon
+year_of_birth:Sara Kanwal Rezvi
+year_of_death:Courtney Marie Prokopas
+college_of:Jim Duehr
+college_of:Lisa Rose Feiertag
+year_of_birth:Jane Doe
+univ_president_of:Point Loma Nazarene University
+born_in:Christina Ricci
+year_of_death:Amanda Blake
+husband_of:Lily Zhao
+year_of_birth:Emily Whitman Easton
+univ_in:Alcoa, Tennessee
+mayor_of:Alpena, MI
+mayor_of:Albany, NY
+year_of_death:Christina Ricci
+mayor_of:Anderson, Indiana
+year_of_death:Lily Zhao
+univ_in:New Port Richey, FL
+univ_in:Akron, Ohio
+parent_org_of:Good Neighbors International
+year_of_death:Barbara Boxer
+headquarters_loc:Wyndom Foundation
+parent_org_of:Franklin and Eleanor Roosevelt Insititute
+univ_president_of:New College of Florida
+parent_org_of:Ag Against Hunger
+college_of:Victor Neminis
+wife_of:Sam Neill
+year_of_birth:Margaret Jacks
+born_in:Kim Basinger
+univ_president_of:Palm Beach Atlantic University
+year_of_death:Barbara Boxer
+wife_of:Mary Cheney
+born_in:Margaret Jacks
+wife_of:Chris Havlin
+wife_of:Neil Patrick Harris
+born_in:Sonia Maria Rupcic
+univ_president_of:Southeastern University
+headquarters_loc:Good Neighbors International
+parent_org_of:Wyndom Foundation
+mayor_of:Forest Hills, Pennsylvania
+year_of_birth:Amanda Blake
+husband_of:Margaret Jacks
+wife_of:Jack Benny
+wife_of:John Mills
+year_of_birth:Lena Dunham
+parent_org_of:GiveVaccines.org
+husband_of:Rebecca Latimer Felton
+univ_in:Houston, TX
+parent_org_of:Goodman Center
+headquarters_loc:Growth Opportunities through Athletics, Learning & Service
+husband_of:Sonia Maria Rupcic
+born_in:Lisa Kudrow
+year_of_death:Will Dietz
+born_in:Emily Whitman Easton
+college_of:Patricia Claire Gilbert
+husband_of:Emily Whitman Easton
+born_in:Sam Feldman
+mayor_of:Niceville, Florida
+univ_president_of:Toccoa Falls College
+univ_president_of:Rollins College
+husband_of:Barbara Boxer
+univ_president_of:Saint Mary's College of California
+univ_in:Florence, Alabama
+college_of:Will Dietz
+univ_president_of:Spelman College
+born_in:Patricia Claire Gilbert
+year_of_death:Emily Whitman Easton
+parent_org_of:Glendon Association
+husband_of:Dustin Black
+mayor_of:Ada, OH
+univ_in:Fitchburg, WI
+headquarters_loc:Education With Enterprise Trust
+year_of_death:Patricia Claire Gilbert
+parent_org_of:Aid for AIDS
+year_of_death:Barbara Boxer
+year_of_death:Kathleen Elizabeth Scanlon
+year_of_death:Eleanor Parker
+univ_president_of:Piedmont College
+parent_org_of:Education With Enterprise Trust
+year_of_birth:Leila Steven Sales
+born_in:Nancy L. Kassebaum
+parent_org_of:Information Habitat
+mayor_of:Angola, Indiana
+year_of_birth:Jason Goldberg
+college_of:Sally Stevens
+college_of:Mandy Patinkin
+mayor_of:Allegan, MI
+college_of:Jonathan Williams
+headquarters_loc:American Cryonics Society
+year_of_birth:Margaret Jacks
+mayor_of:Albion, Michigan
+parent_org_of:Altadena Mountain Rescue
+parent_org_of:Hague International Model United Nations
+year_of_birth:Sally Stevens
+born_in:Margaret Chase Smith
+univ_in:Addison, Texas
+univ_president_of:Mills College
+univ_president_of:Colorado College
+headquarters_loc:Aid for AIDS
+husband_of:Sally Stevens
+college_of:Bob Hope
+parent_org_of:AmBAR
+year_of_birth:Patricia Claire Gilbert
+wife_of:Bobby Anderson
+headquarters_loc:GO Campaign
+wife_of:Troy McClure
+born_in:Victor Neminis
+headquarters_loc:Global Health Review
+mayor_of:Ann Arbor, Michigan
+college_of:Leila Steven Sales
+year_of_birth:Anne Hathaway
+wife_of:Danny DeVito
+husband_of:Kelsey Grammer
+headquarters_loc:Hague International Model United Nations
+college_of:Anne Hathaway
+univ_in:Abingdon, Virginia
+born_in:Rebecca Latimer Felton
+headquarters_loc:Center of Concern
+parent_org_of:Alameda Council
+year_of_birth:Marge Simpson
+headquarters_loc:Aerospace Corporation
+born_in:Lena Dunham
+headquarters_loc:Altadena Mountain Rescue
+wife_of:Bob Hope
+year_of_death:Jane Jacobs
+year_of_birth:Jessica Ruth Plonka
+univ_in:Ada, OH
+univ_president_of:Pacific Union College
+college_of:George Fenneman
+born_in:Amanda Blake
+univ_president_of:Agnes Scott College
+college_of:Sam Hunt
+parent_org_of:AmBAR
+univ_president_of:Connecticut College
+parent_org_of:GO Campaign
+headquarters_loc:Greater Yosemite Council
+year_of_birth:Lisa Rose Feiertag
+univ_in:Aberdeen, South Dakota
+headquarters_loc:American Christmas Tree Association
+year_of_death:Lisa Rose Feiertag
+year_of_birth:Hattie Wyat Caraway
+college_of:William C. Volk
+year_of_death:Lena Dunham
+wife_of:Stephen K. Chan
+wife_of:Daniel Stern
+born_in:Anne Hathaway
+univ_in:Dallas, TX
+year_of_death:William C. Volk
+year_of_birth:Kim Basinger
+born_in:Lily Zhao
+parent_org_of:Amazon Watch
+husband_of:Marge Simpson
+mayor_of:Ada, OK
+parent_org_of:Yachay Wasi
+wife_of:Conan O'Brien
+born_in:Will Dietz
+year_of_birth:Jane Jacobs
+born_in:Jane Doe
+univ_president_of:Adams State University
+univ_in:Ada, OH
+parent_org_of:Gorilla Foundation
+college_of:Courtney Marie Prokopas
+parent_org_of:Amazon Watch
+univ_in:Alpena, MI
+univ_president_of:Covenant College
+wife_of:William C. Volk
+college_of:Andrew William Jordan
+college_of:Christina Ricci
+univ_president_of:Naropa University
+husband_of:Margaret Chase Smith
+born_in:Jessica Jalbrzikowski Coyne
+college_of:Phil Hartman
+wife_of:Andrew William Jordan
+year_of_birth:Kelsey Grammer
+college_of:Troy McClure
+husband_of:Rebecca Latimer Felton
+mayor_of:Amberley, Ohio
+mayor_of:Dallas, TX
+univ_president_of:Eckerd College
+husband_of:Kathleen Elizabeth Scanlon
+husband_of:Jessica Jalbrzikowski Coyne
+univ_president_of:Soka University of America
+year_of_death:Rebecca Latimer Felton
+wife_of:Jim Duehr
+parent_org_of:World Young Women's Christian Association
+univ_in:Ferndale, Michigan
+husband_of:Amanda Blake
+univ_president_of:Berry College
+year_of_death:Rebecca Latimer Felton
+year_of_death:Jessica Jalbrzikowski Coyne
+year_of_birth:Margaret Chase Smith
+parent_org_of:International Network for Girls
+univ_in:Ada, OK
+wife_of:Paul McCartney
+univ_in:Forest Hills, Pennsylvania
+headquarters_loc:Alameda Council
+headquarters_loc:AmBAR
+univ_in:Fort Collins, Colorado
+wife_of:Michael Furdyna
+college_of:Denise Nicholas
+wife_of:Victor Neminis
+univ_in:Albion, Michigan
+born_in:Sally Stevens
+husband_of:Jessica Ruth Plonka
+mayor_of:Abingdon, Virginia
+univ_president_of:Reinhardt University
+husband_of:Marge Simpson
+college_of:Lisa Kudrow
+husband_of:Margaret Chase Smith
+college_of:Seth Berlin
+college_of:Chris Havlin
+born_in:Barbara Boxer
+univ_in:Adrian, Michigan
+mayor_of:Allentown, Pennsylvania
+born_in:Lisa Rose Feiertag
+husband_of:Patricia Claire Gilbert
+univ_in:Alliance, Ohio
+univ_president_of:Stetson University
+year_of_death:Jane Doe
+year_of_birth:Rebecca Latimer Felton
+headquarters_loc:Grief Recovery Institute
+univ_president_of:Occidental College
+univ_in:Zionsville, Indiana
+husband_of:Lena Dunham
+wife_of:Rosie O'Donnell
+college_of:Lily Zhao
+college_of:Sam Neill
+wife_of:Sam Hunt
+parent_org_of:Experiment in International Living
+year_of_birth:Rebecca Latimer Felton
+year_of_birth:Margaret Jacks
+mayor_of:Newport, IN
+wife_of:Will Dietz
+univ_president_of:Sonoma State University
+univ_president_of:Mitchell College
+headquarters_loc:Amazon Watch
+born_in:Dan Wade
+year_of_death:Jane Jacobs
+mayor_of:Alcoa, Tennessee
+year_of_death:Sam Hunt
+parent_org_of:Grief Recovery Institute
+mayor_of:Fort Collins, Colorado
+parent_org_of:Earth Charter
+mayor_of:Altamonte Springs, FL
+wife_of:Dustin Hoffman
+univ_president_of:Morris Brown College
+born_in:Kathleen Elizabeth Scanlon
+year_of_death:Kim Basinger
+year_of_death:Victor Neminis
+univ_in:Zeeland, Michigan
+parent_org_of:American Christmas Tree Association
+univ_in:Adrian, Michigan
+college_of:Sam Feldman
+born_in:Hattie Wyat Caraway
+univ_president_of:University of Saint Joseph
+univ_president_of:Bethune–Cookman University
+born_in:Jason Goldberg
+year_of_birth:Rebecca Latimer Felton
+husband_of:Rebecca Latimer Felton
+parent_org_of:Center for International Cooperation
+year_of_death:Kelsey Grammer
+headquarters_loc:World Young Women's Christian Association
+parent_org_of:AMEN Missionary
+college_of:Paul McCartney
+mayor_of:New London, Ohio
+mayor_of:Anchorage, AK
+born_in:Andrea Martin
+husband_of:Eleanor Parker
+born_in:Chris Havlin
+wife_of:Gene Autry
+headquarters_loc:Earth Charter
+mayor_of:Alliance, Ohio
+univ_president_of:Georgia College and State University
+college_of:Tom Kite
+mayor_of:Addison, Texas
+mayor_of:Adrian, Michigan
+parent_org_of:Education International
+college_of:Conan O'Brien
+univ_president_of:Wesleyan University
+husband_of:Rebecca Latimer Felton
+year_of_birth:Jane Doe
+year_of_death:Hattie Wyat Caraway
+year_of_birth:Jessica Jalbrzikowski Coyne
+univ_president_of:Warner University
+college_of:Luke Perry
+born_in:Jane Jacobs
+parent_org_of:Golden Empire Council
+husband_of:Kim Basinger
+year_of_birth:Margaret Chase Smith
+mayor_of:Anaheim, California
+univ_president_of:Point University
+univ_in:Zanesville, OH
+mayor_of:Ferndale, Michigan
+headquarters_loc:Information Habitat
+univ_in:Amarillo, Texas
+univ_president_of:University of Redlands
+year_of_birth:Nancy L. Kassebaum
+wife_of:George Fenneman
+headquarters_loc:Yachay Wasi
+year_of_birth:Peggy Lipton
+born_in:Jessica Ruth Plonka
+year_of_birth:Chris Havlin
+born_in:Margaret Jacks
+wife_of:Julian Schwaller
+year_of_birth:Sonia Maria Rupcic
+parent_org_of:Secretariat of Youth for Habitat International Network
+year_of_birth:Marge Simpson
+born_in:Jeremy Ziring
+parent_org_of:American Christmas Tree Association
+husband_of:Margaret Jacks
+headquarters_loc:Grand Ducal Council of San Francisco
+wife_of:Dan Wade
+mayor_of:Fitchburg, WI
+year_of_death:Jane Doe
+univ_president_of:Albertus Magnus College
+headquarters_loc:Goodman Center
+univ_in:Ada, OK
+year_of_birth:Lily Zhao
+headquarters_loc:Alive & Well AIDS Alternatives
+year_of_death:Nancy L. Kassebaum
+year_of_birth:Marge Simpson
+year_of_birth:Andrew William Jordan
+college_of:Amanda Blake
+year_of_death:Sara Kanwal Rezvi
+husband_of:Margaret Jacks

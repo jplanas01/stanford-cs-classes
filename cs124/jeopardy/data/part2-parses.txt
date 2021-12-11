@@ -1,0 +1,30 @@
+year_of_birth:Arnold Schwarzenegger
+born_in:Edgar Allan Poe
+born_in:Robert Todd Lincoln
+year_of_birth:Bill Clinton
+born_in:Benjamin Franklin
+year_of_birth:Katherine Schwarzenegger
+year_of_birth:Cary Elwes
+born_in:Bill Gates
+born_in:Andrew Johnson
+year_of_birth:Edgar Allan Poe
+year_of_birth:Barry Bonds
+year_of_birth:Ike Eisenhower
+year_of_birth:Billy Crystal
+born_in:Abiah Folger
+born_in:Alexander II of Russia
+born_in:Billy Crystal
+born_in:Arnold Schwarzenegger
+born_in:Dwight Eisenhower
+born_in:John Allan
+born_in:Arthur Miller
+year_of_birth:Colin Powell
+year_of_birth:Andrew Johnson
+year_of_birth:Willie Lincoln
+born_in:Ernest Hemingway
+born_in:John Hemingway
+year_of_birth:John Sheldon David Doud Eisenhower
+year_of_birth:Gladys Love Smith
+born_in:Elvis Presley
+year_of_birth:Alfonso V
+year_of_birth:Sarah Franklin

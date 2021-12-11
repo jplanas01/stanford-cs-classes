@@ -1,0 +1,28 @@
+Need 60 points to get perfect score.
+-All of starter (30pts)
+Order: 1. Movie in quotes recognition
+2. Handling non-existant movies and movies with no sentiment attached
+3. Sentiment extraction (negation, stemming, ignore words in movie title)
+4. Given a cluster of mostly but not exclusively liked movies, suggest more
+movies. If only have negative/positive opinion, ask for more until have >3
+movies w/ majority liked)
+5. Make sure bot sounds relatively fluent, no extraneous output.
+
+
+
+-Non-binarized data set (first feature to implement) (4pts)
+-Spell checking movie titles (Levenstein distance from input to each title)
+(4pts)
+-Depend only on first word being capitalized (4pts) (has to be independent of
+position of title, only case have to worry about this is when words come after
+the title) (check MAX_TITLE_LEN words after first capitalized word)  (4pts).
+Only suggest spell checking if distance is below threshold, otherwise fail.
+-Disambiguating movie titles with series/year ambiguities (4pts)
+-Responding to emotion words (eg, sad, happy, angry) by suggesting a movie
+appropriate to said emotion (sad->comedy movie, angry->action movie,
+calm->romantic movie, happy->sad drama) (if negation occurs, pretend that they
+are feeling the opposite emotion)
+-Arbitrary input responses (handling non-movie responses) (4pts)
+-Fluency maybe? Depends on what I'd have to handle. Part of above.
+-Chatbot! Copy code/reflections, make up responses (hopefully 5+ points)
+https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/ 
