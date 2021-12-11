@@ -1,0 +1,39 @@
+IMAGE
+map-custom.jpg
+449
+278
+
+VERTEXES
+Santo Domingo;260;167
+Haina;248;175
+San Pedro;329;173
+La Romana;367;175
+Higuey;396;156
+Barahona;120;201
+Pedernales;44;217
+Elias Pina;55;123
+La Vega;186;91
+Santiago;167;68
+Puerto Plata;168;31
+Monte Cristi;56;24
+San Francisco;212;80
+
+EDGES
+Santo Domingo;Haina;15
+Santo Domingo;San Pedro;70
+San Pedro;La Romana;38
+La Romana;Higuey;34
+Santo Domingo;Barahona;142
+Barahona;Pedernales;77
+Pedernales;Elias Pina;93
+Barahona;Elias Pina;100
+Elias Pina;La Vega;138
+La Vega;Barahona;129
+Santo Domingo;La Vega;105
+Santo Domingo;San Francisco;99
+La Vega;Santiago;31
+La Vega;San Francisco;27
+Santiago;Puerto Plata;36
+Santiago;Monte Cristi;118
+Monte Cristi;Elias Pina;100
+La Romana;San Francisco;184

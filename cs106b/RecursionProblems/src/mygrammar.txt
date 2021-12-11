@@ -1,0 +1,7 @@
+<s>::=<tp> <ap> <np> is <adj>|<tp> <np> is <a> <np>|your <n> is <adj> !
+<tp>::=your|his|her|my|their
+<np>::=<n>|<ap> <n>
+<ap>::=<adj>|<adj> <ap>
+<a>::=a|the
+<n>::=rooster|person|dog|muffin|mom|dad|brother|sister|third cousin, once removed
+<adj>::=slimy|unnice|large|fat|stupid|hilarious|uninteresting|mediocre|questionable||
